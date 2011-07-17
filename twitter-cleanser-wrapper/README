@@ -1,0 +1,16 @@
+TextCleanser wrapper package for Twitter Commons Text Processing Library
+Author: Stephan Gouws
+Contact: stephan@ml.sun.ac.za
+------------------------------------------------------------------------------
+
+This package is a simple wrapper for the Python-based TextCleanser package (https://github.com/gouwsmeister/TextCleanser).
+
+Usage:
+#Get the python TextCleanser package
+git clone git@github.com:gouwsmeister/TextCleanser.git
+
+#Set environment variable in run.sh
+export TEXT_CLEANSER_HOME=path_to_text_cleanser
+
+#Run the example script
+./run.sh

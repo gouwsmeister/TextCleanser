@@ -2,7 +2,10 @@
 
 """
     A command line accessor for the TextCleanser. Accepts noisy strings 
-    as input on stdin and outputs normalised strings on stdout.     
+    as input on stdin and outputs normalised strings on stdout. 
+    
+    Author: Stephan Gouws
+    Contact: stephan@ml.sun.ac.za    
 """
 
 from cleanser import TextCleanser
